@@ -2,7 +2,7 @@
 
 Code and data supporting the paper [American Sign Language Handshapes Reflect Pressures for Communicative Efficiency](https://arxiv.org/abs/2406.04024).
 
-I'm currently working on cleaning up the code for presentation, and I aim to release this by the end of June 2024. If you would like access to code and/or data earlier, please email me at kayoyin@berkeley.edu !
+I'm currently working on cleaning up the code for presentation, and I aim to release this by August 2024. If you would like access to code and/or data earlier, please email me at kayoyin@berkeley.edu !
 
 ## Reference
 
