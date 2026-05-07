@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# OS / editor
+.DS_Store
+__MACOSX/
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs / dumps
+*.log
+*.out
+wget-log*
+
+# Large / generated artifacts
+*.tar
+*.tar.gz
+*.zip
+*.task
+*.mp4
+*.gif
+*.npy
+*.npz
+*.pt
+*.ckpt
+*.pkl
+
+# Generated outputs (regenerable from src/)
+data/scores/
+data/raw/
+data/google/
+data/mediapipe/
+
+# Plots are committed when finalized; ignore intermediate exports
+plots/*.png
+plots/*.tar
+
+# Environment / secrets
+.envrc
+*.local.json
